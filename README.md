@@ -1,7 +1,7 @@
 # Ball-To-Goal-ML
 ## Reinforcement Learning sample project in which the ball has to get to the goal as fast as it can without touching any obstacles in the way.
 ### The project was made with Unity Game Engine (C# and Python's 'PyTorch' Library)
-### Currently improving and testing with the model to make it better and for the ball to behave more natural
+### Currently improving and experimenting with the model to make it better and for the ball to behave more natural
 
 ## Goals:
 ### * Get to the Green cube
