@@ -4,7 +4,7 @@
 ### Currently improving and experimenting with the model to make it better and for the ball to behave more natural
 
 ## Goals:
-### * Get to the Green cube
+### * Get to the Green ball
 ### * Do it as fast as possible
 ### * Try to minimize air time
 ### * Don't touch the red platforms
