@@ -6,7 +6,6 @@
 ## Goals:
 ### * Get to the Green ball
 ### * Do it as fast as possible
-### * Try to minimize air time
 ### * Don't touch the red platforms
 
 ![Ball-To-Goal](https://user-images.githubusercontent.com/101797157/213224829-3acb207d-7240-41a8-8974-1b3c2e894ba0.PNG)
